@@ -1,2 +1,2 @@
 def signup():
-    print("signup")
+    print("signup called")
